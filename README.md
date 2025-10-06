@@ -19,8 +19,8 @@ Aplikasi ini dirancang untuk user-friendly, cepat, dan estetis, cocok untuk proj
 
 Demo
 Aplikasi ini telah dideploy dan bisa diakses secara live di:
-https://yourusername.github.io/weather-app
-(Ganti dengan link deploy-mu, misal GitHub Pages atau Vercel. Jika belum deploy, hapus baris ini dan tambahkan setelah deploy.)
+(https://github.com/kyy-sr/weather-web)
+
 
 Cara Akses Demo:
 
@@ -85,16 +85,14 @@ Tailwind CSS: ^3.3.0 (styling)
 Lihat package.json untuk versi lengkap.
 
 Daftar Anggota Kelompok
-Project ini dikembangkan oleh tim berikut (Project Kelompok Pemrograman Web - Semester 2023/2024):
+Project ini dikembangkan oleh tim berikut 
 
-John Doe (NIM: 12345678) - Frontend Developer & UI/UX Design
-(Email: john.doe@email.com | GitHub: @johndoe)
+ M.keysar
 
-Jane Smith (NIM: 87654321) - Backend Integration & API Handling
-(Email: jane.smith@email.com | GitHub: @janesmith)
+ Agus hildan
 
-Bob Johnson (NIM: 11223344) - Testing & Deployment
-(Email: bob.johnson@email.com | GitHub: @bobjohnson)
+ Rizki aditiya
 
-Alice Brown (NIM: 55667788) - Documentation & Project Management
-(Email: alice.brown@email.com | GitHub: @alicebrown)
+ Suryo handoko
+
+ Faiz 
