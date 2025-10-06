@@ -40,7 +40,7 @@ Clone Repository:
 
 Run
 Copy code
-git clone https://github.com/yourusername/weather-app.git
+git clone (https://github.com/kyy-sr/weather-web.git)
 cd weather-app
 Install Dependencies:
 
